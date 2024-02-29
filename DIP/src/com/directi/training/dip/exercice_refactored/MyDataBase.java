@@ -1,4 +1,4 @@
-package com.exercice_refactored;
+package com.directi.training.dip.exercice_refactored;
 
 import java.util.HashMap;
 import java.util.Map;

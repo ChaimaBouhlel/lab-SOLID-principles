@@ -1,4 +1,4 @@
-package com.exercice_refactored;
+package com.directi.training.dip.exercice_refactored;
 
 public class Client {
     private Encoder fileEncoder;
